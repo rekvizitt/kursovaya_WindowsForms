@@ -1,0 +1,137 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="kursovaya.AddData" Collapsed="true">
+    <Position X="9.5" Y="2.5" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>AiAAAAAAASAAABCAAACAAABCJAAYAAAAECIAAAEAAAA=</HashCode>
+      <FileName>AddData.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="kursovaya.addUserData">
+    <Position X="9.5" Y="1.75" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>AiAAAAAAACAAABAAAACAAAACAAAYAAAAECIAAAAAAAI=</HashCode>
+      <FileName>addUserData.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="kursovaya.AdminPanel">
+    <Position X="4" Y="0.5" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>FQADAhCGoDBRCISFMQDSwKTDkBllQkhiEEgQgAEEIAA=</HashCode>
+      <FileName>AdminPanel.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="kursovaya.ChooseGroup" Collapsed="true">
+    <Position X="9.5" Y="4" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAABAQAACAAAACAAAYAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>ChooseGroup.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="kursovaya.DeleteData" Collapsed="true">
+    <Position X="8" Y="1" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAABAQAACAAAACAAAYAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>DeleteData.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="kursovaya.FindData" Collapsed="true">
+    <Position X="11.25" Y="4.75" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>AgAAAAAAACAgABAQAACAAAACAAAYAAAAECIAAAAAAAI=</HashCode>
+      <FileName>FindData.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="kursovaya.InfoForm" Collapsed="true">
+    <Position X="9.75" Y="5" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>AQAAAAAAACACAAAAEACAAAACAAAAAAIAEAAAAAAAAAA=</HashCode>
+      <FileName>InfoForm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="kursovaya.Log_in" Collapsed="true">
+    <Position X="11.25" Y="3.25" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>AiAAAAAAAKAAABEAAACAAAADAEAIAAAAEEIAAAEAABA=</HashCode>
+      <FileName>Log_in.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="kursovaya.Program" Collapsed="true">
+    <Position X="11.25" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="kursovaya.SortData" Collapsed="true">
+    <Position X="11.25" Y="4" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAABAQAACAAAACAAAYAAAAACAAAAAAAAI=</HashCode>
+      <FileName>SortData.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="kursovaya.userPanel" Collapsed="true">
+    <Position X="7.75" Y="1.75" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>EQAAAgCAIDAADIAEAQDSAABCEEkkAgBgFFAQgAAAIAA=</HashCode>
+      <FileName>userPanel.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="kursovaya.Zastavka" Collapsed="true">
+    <Position X="9.5" Y="1" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAABAAAACAAAACAAAIAAAAAEAAAAAAAAA=</HashCode>
+      <FileName>Zastavka.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="kursovaya.Properties.Resources" Collapsed="true">
+    <Position X="11.25" Y="1" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAABEAAAAQAAAAAAAAAAAAAAAIA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Struct Name="kursovaya.User" Collapsed="true">
+    <Position X="11.25" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAEAAAAAAAAAAAAAACAAAQAAAAAAA=</HashCode>
+      <FileName>Log_in.cs</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
